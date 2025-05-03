@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "596824304672",
+    "project_id": "dumypovintren",
+    "storage_bucket": "dumypovintren.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596824304672:android:e3ce13954b8ae8d7f0e045",
+        "android_client_info": {
+          "package_name": "com.example.pov_clone_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596824304672-3afagsr5jhagp3pr9qsnl0u8o77mvia0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pov_clone_project",
+            "certificate_hash": "fa6d6e5f03ee29fa84837f79421f9dfee3850486"
+          }
+        },
+        {
+          "client_id": "596824304672-gr5ienj3ibrf32m888i748gvuajtjcde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAglEsdML8Pk3J6IxdZzdjED76ws1Xaw6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596824304672-gr5ienj3ibrf32m888i748gvuajtjcde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
